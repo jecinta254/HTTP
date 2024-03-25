@@ -1,0 +1,1 @@
+HTTP is the backbone of the modern web, and in this course we’ll do a deep dive into all of the fundamentals you’ll need to know to master web networking. We’ll use the Fetch API to interact with a live RESTful server in order to connect the different components of a video game.
